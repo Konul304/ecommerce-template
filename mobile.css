@@ -1,0 +1,305 @@
+@media only screen and (max-width: 580px) {
+    #bg {
+        width: 60%;
+    }
+
+    .elemsDiv {
+        height: 60px;
+    }
+
+    #text {
+        font-size: 0.8rem;
+        margin-right: 5%;
+    }
+
+
+    #logo {
+        width: 13%;
+        height: 20%;
+    }
+
+    .categories p {
+        font-size: 1rem;
+    }
+
+    #win {
+        width: 0.7rem;
+        height: 0.7rem;
+    }
+
+    .leftElems {
+        width: 50%;
+        margin-right: 4%;
+    }
+
+    .rightElems {
+        width: 50%;
+    }
+
+    #favs,
+    #add {
+        width: 20%;
+        height: 10%;
+    }
+
+    #sign {
+        width: 45%;
+    }
+
+    .searchPart {
+        width: 44%;
+    }
+
+    #p1 {
+        margin-top: 35%;
+        font-size: 2rem;
+    }
+
+    #p2 {
+        width: 100%;
+        margin-top: 3%;
+        font-size: 1rem;
+    }
+
+    #inpcont {
+        width: 100%;
+    }
+
+    .searchPart img {
+        position: relative;
+        width: 30%;
+        top: 1%;
+        right: 0;
+    }
+
+    #i1 {
+        width: 12%;
+        height: 10%;
+        position: absolute;
+        top: 17%;
+        left: 40%;
+    }
+
+    #i2 {
+        width: 17%;
+        height: 12%;
+        position: absolute;
+        top: 12%;
+        left: 65%
+    }
+
+    #i3 {
+        width: 14%;
+        height: 12%;
+        position: absolute;
+        top: 32%;
+        left: 49%;
+    }
+
+    #i4 {
+        width: 12%;
+        height: 9%;
+        position: absolute;
+        top: 42%;
+        left: 65%;
+    }
+
+    #i5 {
+        width: 17%;
+        height: 13%;
+        position: absolute;
+        top: 32%;
+        left: 79%;
+    }
+
+
+    /*-------------------------Why-choose-us------------------------------------*/
+
+    #whyUs {
+        margin-top: 60rem;
+    }
+
+    .header {
+        font-size: 2rem;
+        margin-bottom: 5%;
+    }
+
+    .reasonFlex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 3%;
+    }
+
+    .card {
+        width: 85%;
+        height: 298px;
+        margin-right: 5%;
+        margin-bottom: 5%;
+        padding-left: 5%;
+        padding-top: 0%;
+    }
+
+    .card img {
+        position: absolute;
+    }
+
+    .round {
+        margin-top: 2%;
+        width: 35%;
+        height: 40%;
+        background: linear-gradient(238.66deg, #0283E9 -18.13%, #FC01CA 120.27%);
+        border-radius: 50%;
+    }
+
+    #icon1,
+    #icon2,
+    #icon3,
+    #icon4 {
+        width: 9%;
+        height: 9%;
+        margin: 5% 7%;
+    }
+
+    .reason {
+        position: static;
+        margin-top: 10%;
+        font-size: 1.5rem;
+    }
+
+    .reasonText {
+        margin-top: 8%;
+        font-size: 1rem;
+    }
+
+    /*-------------------------Products------------------------------------*/
+
+    #products {
+        height: 93em;
+        margin: 10em calc(50% - 50vw);
+        padding-top: 5em;
+    }
+
+    .productFlex {
+        margin-top: 5em;
+        flex-wrap: wrap;
+    }
+
+    .prod {
+        width: 85%;
+        height: auto;
+        margin-right: 5%;
+        margin-bottom: 5%;
+    }
+
+    #btn {
+        margin: 3% 0% 3% 40%;
+    }
+
+    #btn:hover {
+        cursor: pointer;
+    }
+
+    .hover {
+        position: absolute;
+        margin: 7% 6% 5% 7%;
+        display: none;
+    }
+
+    .hover :first-child {
+        width: 120px;
+        height: 40px;
+    }
+
+    .hover :last-child {
+        width: 40px;
+        height: 40px;
+    }
+
+    /*-------------------------New-Products------------------------------------*/
+
+    #Ptitle {
+        font-size: 2rem;
+    }
+
+    #elemsDiv2 {
+        max-width: 100%;
+        height: 100px;
+        margin-top: 3%;
+        margin-left: 0% !important;
+        font-size: 1em;
+    }
+
+    #elemsDiv2 p {
+        padding: 1%;
+    }
+
+    #btn2 {
+        margin: 5% 0% 5% 38%;
+    }
+
+    .cardsFlex {
+        width: 80vw;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        margin-top: 5%;
+    }
+
+    .cardsFlex .prod {
+        width: 95%;
+        margin-right: 2%;
+    }
+
+    /*-------------------------Reviews------------------------------------*/
+
+    .swiper-wrapper {
+        margin-bottom: 15%;
+    }
+
+    .swiper-pagination-bullet {
+        padding: 3px 8px;
+        width: 20px;
+        height: 30px;
+    }
+
+    /*-------------------------Newsletter------------------------------------*/
+
+    #newsletter {
+        height: 130px;
+        margin: 10em calc(50% - 50vw);
+        padding-top: 10%;
+        margin-bottom: 0px !important;
+        justify-content: center;
+    }
+
+    #newsletter p {
+        font-size: 1.5rem;
+        margin-right: 2%;
+        margin-top: 2%;
+    }
+
+    #newsDiv {
+        width: 55%;
+        height: 40%;
+        padding-left: 1%;
+        align-items: center;
+    }
+
+    #inp2 {
+        width: 80%;
+        position: relative;
+        padding-left: 1%;
+        font-size: 16px;
+    }
+
+    /*-----------------FOOTER-----------------------*/
+
+    .footerFlex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
